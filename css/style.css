@@ -1,5 +1,13 @@
 .tropical {
-    h2 : #f7325e;
-    <p> : #7dC410 ;
+    color : #f7325e;
     font-family : fantasy ;
+    font-style: italic;
+}
+.popular{
+    color :blueviolet ;
+    font-family: fantasy;
+    font-style: italic;
+}
+body{
+    background-color: pink;
 }
