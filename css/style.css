@@ -9,5 +9,9 @@
     font-style: italic;
 }
 body{
-    background-color: beige;
+    background-color: wheat;
+}
+.professional {
+    color : white;
+    font-family: Helvetica;
 }
